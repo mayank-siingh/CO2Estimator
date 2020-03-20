@@ -1,4 +1,4 @@
-# CO2Estimator
+# co2Estimator
 A project started keeping in mind to make a PyPI package for co2 emission estimation.
 
 # Estimator and Estimation
