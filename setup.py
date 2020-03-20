@@ -8,7 +8,7 @@ setup(
     url = 'https://github.com/mayank-siingh/CO2Estimator/',
     author = 'Mayank Bhandari',
 	author_email = 'bhandarimayank01@gmail.com',
-    download_url ='https://github.com/mayank-siingh/CO2Estimator/archive/0.1.0.tar.gz',
+    download_url ='https://github.com/mayank-siingh/CO2Estimator/archive/v0.1.0.tar.gz',
 )
 
 
