@@ -2,7 +2,7 @@ from setuptools import setup
     
 setup(
     name='co2Estimator',
-    version='0.1.0',
+    version='0.2.0',
     packages=['co2Estimator',],
     license='MIT license',
     url = 'https://github.com/mayank-siingh/CO2Estimator/',
