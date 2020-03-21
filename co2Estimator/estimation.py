@@ -6,8 +6,10 @@ co2_diesel = 2689.273
 
 # defining the function for evaluating the co2 emitted
 def co2Emitted(carType : str,mileage : float,distance : float) -> float:
-    if carType == 'gasoline' or carType == 'petrol':
-        co2_emission = (co2_gasoline*distance)/mileage
-    elif carType == 'diesel':
-        co2_emission = (co2_diesel*distance)/mileage
-    return co2_emission
+    # Here the code 
+    # goes which 
+    # evaluates the co2 emitted
+    # taking 3 parameters i.e 
+    # 1. carType : 'petrol' or 'diesel'
+    # 2. mileage : of car/vehicle(in km/litres)
+    # 3. distance : to be travelled during the journey(in kms.)
